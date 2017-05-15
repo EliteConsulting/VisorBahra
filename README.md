@@ -34,7 +34,8 @@ Como también disponer de información en cada uno de los puntos que se represen
 
 * Código BAHRA.
 
-**Descripcion de los campos: **[http://www.bahra.gob.ar/files/estructura_base_datos.pdf](http://www.bahra.gob.ar/files/estructura_base_datos.pdf)
+
+Descripcion de los campos:  [http://www.bahra.gob.ar/files/estructura_base_datos.pdf](http://www.bahra.gob.ar/files/estructura_base_datos.pdf)
 
 # Herramientas 
 

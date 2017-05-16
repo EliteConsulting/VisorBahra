@@ -51,3 +51,7 @@ Se desea que el proyecto cuente con las siguientes herramientas:
 
 5. Búsqueda de Localidad o Sitio Edificado.
 
+# Tecnologia Utilizada
+
+Se utiliza Leaflet y Java script.
+
